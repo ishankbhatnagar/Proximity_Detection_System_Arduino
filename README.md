@@ -41,12 +41,12 @@ This demonstrates efficient use of basic sensor interfacing and real-time feedba
 ## 📸 Circuit Images
 
 ### Arduino Circuit
-![Arduino Circuit](images/Arduino_Circuit.png)
+![Arduino Circuit](Circuit_Images/Arduino_Circuit.png)
 
-![Arduino Circuit 2](images/Arduino_Circuit_2.png)
+![Arduino Circuit 2](Circuit_Images/Arduino_Circuit_2.png)
 
 ### Arduino Circuit Simulation
-![Arduino Circuit Simulation](images/Arduino_Circuit_Simulation.png)
+![Arduino Circuit Simulation](Circuit_Images/Arduino_Circuit_Simulation.png)
 
 ### Working Circuit
-![Working Circuit](images/Working_Circuit.png)
+![Working Circuit](Circuit_Images/Working_Circuit.png)
